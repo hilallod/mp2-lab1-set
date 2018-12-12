@@ -1,0 +1,43 @@
+﻿Build started 12.12.2018 15:48:20.
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (2) on node 2 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (GetTargetPath target(s)).
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (3) on node 3 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     3>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (GetTargetPath target(s)).
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (3:2) on node 3 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (2:2) on node 2 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (GetNativeManifest target(s)).
+     3>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (GetNativeManifest target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I../../../gtest /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D _VARIADIC_MAX=10 /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\test\test_main.cpp ..\..\..\test\test_tbitfield.cpp ..\..\..\test\test_tset.cpp
+         test_tset.cpp
+         test_tbitfield.cpp
+         test_main.cpp
+         Generating Code...
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (2:3) on node 2 (GetResolvedLinkLibs target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (3:3) on node 3 (GetResolvedLinkLibs target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (GetResolvedLinkLibs target(s)).
+     3>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (GetResolvedLinkLibs target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\test_bitfield.exe" /INCREMENTAL /NOLOGO /LIBPATH:../Debug gtest.lib bitfield.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\test_bitfield.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\test_bitfield.lib" /MACHINE:X86 /SAFESEH Debug\test_main.obj
+         Debug\test_tbitfield.obj
+         Debug\test_tset.obj
+         "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\gtest.lib"
+         "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\bitfield.lib"
+     1>test_main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         test_bitfield.vcxproj -> C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\test_bitfield.exe
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (1) is building "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (3:4) on node 3 (GetCopyToOutputDirectoryItems target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     3>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (GetCopyToOutputDirectoryItems target(s)).
+     1>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\test_bitfield\test_bitfield.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.09

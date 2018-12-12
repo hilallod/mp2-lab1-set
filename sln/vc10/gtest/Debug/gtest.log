@@ -1,0 +1,14 @@
+﻿Build started 12.12.2018 15:48:13.
+     1>Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _VARIADIC_MAX=10 /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+         gtest.vcxproj -> C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\Debug\gtest.lib
+     1>Done Building Project "C:\Users\shirokov.s\Downloads\mp2-lab1-set-master\sln\vc10\gtest\gtest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.21
