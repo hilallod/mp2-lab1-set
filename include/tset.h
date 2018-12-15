@@ -2,7 +2,6 @@
 //
 // tset.h - Copyright (c) Гергель В.П. 07.05.2001
 //   Переработано для Microsoft Visual Studio 2008 Сысоевым А.В. (19.04.2015)
-//
 // Множество
 
 #ifndef __SET_H__
