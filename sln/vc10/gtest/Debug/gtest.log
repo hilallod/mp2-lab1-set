@@ -1,13 +1,9 @@
-﻿Сборка начата 15.12.2018 3:41:46.
+﻿Сборка начата 26.12.2018 20:58:57.
      1>Проект "D:\Git\mp2-lab1-set\sln\vc10\gtest\gtest.vcxproj" в узле 2 (целевые объекты Build).
-     1>ClCompile:
-         D:\Program\MVS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _VARIADIC_MAX=10 /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\gtest\gtest-all.cc"
-         gtest-all.cc
-       Lib:
-         D:\Program\MVS\VC\bin\Lib.exe /OUT:"D:\Git\mp2-lab1-set\sln\vc10\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+     1>Lib:
          gtest.vcxproj -> D:\Git\mp2-lab1-set\sln\vc10\Debug\gtest.lib
      1>Сборка проекта "D:\Git\mp2-lab1-set\sln\vc10\gtest\gtest.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:02.70
+Затраченное время: 00:00:00.04
